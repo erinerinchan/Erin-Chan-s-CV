@@ -10,7 +10,7 @@
 <h2>陳若珩</h2>
 <h2>Phone: 6489 9775</h2>
 <h2>Email: <u>erinchanyh@gmail.com</u></h2>
-  </p>
+</p>
 </center>
 <pre>
 <h4>Address:            Flat 174, 9/F, Tak Po Building, 174 Fuk Wa Street, Sham Shui Po, Kowloon, Hong Kong</h4>
